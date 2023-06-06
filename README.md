@@ -1,7 +1,7 @@
 ## Hi there!
 
 <div>
-<img src="./chicken.gif"/>
+<img src="./chicken.gif" width="20" height="80"/>
 </div>
 
 ## Skills
