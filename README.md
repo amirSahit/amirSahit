@@ -1,7 +1,11 @@
 ## Hi there!
 
+<div>
+<img src="./chicken.gif">
+</div>
 
 ## Skills
+
 - Proficient in JavaScript, HTML, and CSS for front-end web development.
 - Experience working with React and Next.js to build responsive and interactive web applications.
 - Familiarity with Node.js and Express.js for server-side development and building RESTful APIs.
