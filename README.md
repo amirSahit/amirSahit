@@ -1,6 +1,4 @@
-## Hi there!
-
-<div>
+<div id="wrapper" >
 <img src="./chicken.gif" width="600" height="600"/>
 </div>
 
