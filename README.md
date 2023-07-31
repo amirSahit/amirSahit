@@ -1,6 +1,7 @@
 ## What I am doing right now
 
-- Frontend Developer Student at Devhaus CodeCamp Leipzig
+- Frontend Developer
+- Alumni at Devhaus CodeCamp Leipzig
 
 ## Languages
 
